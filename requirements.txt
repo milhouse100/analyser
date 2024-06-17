@@ -1,0 +1,7 @@
+Flask
+Flask-CORS
+moviepy
+whisper
+langdetect
+pydub
+pytube
